@@ -1,0 +1,70 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+87
+"SOFT HIGHER Maker: samuel bermudez this software comparate the the age of the person" 
+5
+1
+7
+v_year1
+4
+1
+51
+"type/input the year of bitrh of the second person"
+5
+1
+7
+v_year2
+7
+0
+1
+32
+v_year1  >2021 OR  v_year2> 2021
+6
+2
+6
+v_age1
+12
+2021-v_year1
+6
+v_age2
+12
+2021-v_year2
+7
+0
+1
+13
+v_age1=v_age2
+7
+0
+1
+13
+v_age1<v_age2
+4
+1
+25
+"the youngest is",v_year2
+13
+4
+1
+25
+"the youngest is",v_year1
+13
+13
+4
+1
+19
+"the both sre same"
+13
+13
+4
+1
+41
+"ERR: some of the years types  are wrong"
+13
+1

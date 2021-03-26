@@ -1,0 +1,100 @@
+ Dfd (c)
+1
+1
+2
+0
+0
+4
+1
+81
+"software number - samuel bermudez - the math game try simulate the hot and cold"
+6
+3
+12
+v_sys_number
+15
+random + 1(100)
+9
+v_intents
+1
+5
+5
+v_win
+1
+0
+12
+1
+15
+p_input _number
+0
+9
+1
+23
+v_sys_number ! = v_user
+6
+1
+8
+v_itents
+12
+v_itents + 5
+7
+0
+0
+7
+0
+0
+4
+1
+9
+"cold up"
+13
+4
+1
+11
+"cold down"
+13
+13
+4
+1
+13
+"you are hot"
+13
+11
+7
+0
+0
+4
+1
+7
+"sorry"
+13
+4
+1
+17
+"congratulations"
+13
+1
+2
+1
+14
+p_input_number
+1
+13
+v_user_number
+0
+4
+1
+41
+"input type the number between 0 and 100"
+5
+1
+13
+V_user_number
+9
+0
+4
+1
+52
+"Err your number should be inside between 0 and 100"
+11
+3

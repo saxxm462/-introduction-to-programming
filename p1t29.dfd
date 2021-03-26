@@ -1,0 +1,106 @@
+ Dfd (c)
+1
+1
+3
+0
+0
+4
+1
+81
+"soft:calculator v 1.0 maker samuel bermudez this software simulate a calculator"
+4
+1
+35
+"input your option 1(sum) 2 (rest) 
+5
+1
+8
+v_option
+12
+0
+0
+9
+0
+11
+1
+2
+1
+14
+p_valid_option
+1
+8
+v_option
+1
+18
+valide the option 
+4
+0
+5
+1
+8
+v_option
+9
+1
+62
+v_option != 1 AND v_option != 2 AND v_option !=3 v_option != 4
+4
+1
+45
+"your opton dont exit input again your option
+11
+3
+2
+1
+5
+p_sum
+0
+1
+47
+in this program calcute the sum for any numbers
+4
+1
+32
+"input the total numbers to sum"
+5
+1
+15
+v_total:numbers
+6
+1
+5
+v_sum
+1
+0
+8
+1
+1
+i
+1
+1
+1
+1
+15
+v_total_numbers
+1
+1
+1
+4
+1
+22
+"input the number ", i
+5
+1
+8
+v_number
+6
+1
+5
+v_sum
+17
+v_sum + v _number
+10
+4
+1
+28
+"the total sum is " , v_sum 
+3

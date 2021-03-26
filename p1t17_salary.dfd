@@ -1,0 +1,55 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+10
+"software"
+4
+1
+18
+"input the number"
+5
+1
+8
+v_sueldo
+5
+1
+11
+v_dias_trab
+7
+0
+1
+13
+v_sueldo <=0 
+7
+0
+1
+16
+v_dias_trab > 30
+6
+1
+9
+v_salario
+27
+(v_sueldo/30) * v_dias_trab
+4
+1
+23
+"the pay is ", v_sueldo
+13
+4
+1
+5
+"err"
+13
+13
+4
+1
+5
+"err"
+13
+1

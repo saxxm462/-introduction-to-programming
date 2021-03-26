@@ -1,0 +1,82 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+10
+"Software"
+4
+1
+18
+"input your notes"
+5
+1
+7
+v_nota1
+4
+1
+18
+"input your notes"
+5
+1
+7
+v_nota2
+4
+1
+18
+"input your notes"
+5
+1
+7
+v_nota3
+4
+1
+18
+"input your notes"
+5
+1
+7
+v_nota4
+7
+0
+1
+51
+v_nota1 <0 OR v_nota1 >5 OR v_nota2<0 OR v_nota2 >5
+6
+3
+1
+s
+14
+0.20 * v_nota1
+1
+m
+14
+0.25 * v_nota2
+1
+t
+14
+0.25 * v_nota3
+6
+2
+1
+r
+14
+0.30 * v_nota4
+5
+total
+14
+s + m + t + r 
+4
+1
+23
+"the result is ", total
+13
+4
+1
+7
+"error"
+13
+1

@@ -1,0 +1,82 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+10
+"software"
+4
+1
+16
+"input the note"
+5
+1
+17
+v_total_studentes
+7
+0
+1
+21
+v_total_studentes <=0
+6
+2
+3
+sum
+1
+0
+7
+average
+1
+0
+8
+1
+1
+i
+1
+1
+1
+1
+17
+v_total_studentes
+1
+1
+1
+4
+1
+28
+"input grade1grade 2 grade3"
+5
+1
+20
+grade1,grade2,grade3
+6
+2
+11
+final_grade
+36
+grade1*0.2 + grade2*0.3 + grade3*0.5
+3
+sum
+17
+sum + final_grade
+10
+6
+1
+7
+average
+22
+sum/v_total_studentes 
+4
+1
+60
+"For", v_total_studentes ," students the average is",average
+13
+4
+1
+38
+"err: the total students should be >0"
+13
+1

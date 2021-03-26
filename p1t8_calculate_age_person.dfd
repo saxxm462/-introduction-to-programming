@@ -1,0 +1,38 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+103
+"AGESOFT V1.0
+Maker:samuel bermudez
+this software use the year of birth to calculate age of a person"
+5
+1
+11
+v_yearbirth
+7
+0
+1
+16
+v_yearbirth>2021
+6
+1
+5
+v_age
+16
+2021-v_yearbirth
+4
+1
+41
+"the age of person is:",v_age,"years old"
+13
+4
+1
+68
+"this year is not valid the yerad of birth should be lest than 2021"
+13
+1

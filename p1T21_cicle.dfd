@@ -1,0 +1,48 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+70
+"Soft_number v1.0_maker:samuel bermudez_this software show n numbers" 
+4
+1
+31
+" type input the total nimber "
+5
+1
+7
+v_total
+7
+0
+1
+11
+v_total<=0 
+8
+1
+1
+i
+1
+1
+1
+1
+7
+v_total
+1
+1
+1
+4
+1
+26
+" the number ciclye is", i
+10
+13
+4
+1
+35
+"err: this number need high than 0"
+13
+1
